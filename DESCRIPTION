@@ -100,6 +100,7 @@ URL: http://shiny.rstudio.com
 BugReports: https://github.com/rstudio/shiny/issues
 Collate:
     'app.R'
+    'app_template.R'
     'bookmark-state-local.R'
     'stack.R'
     'bookmark-state.R'
@@ -167,7 +168,6 @@ Collate:
     'shinyui.R'
     'shinywrappers.R'
     'showcase.R'
-    'skeleton.R'
     'snapshot.R'
     'tar.R'
     'test-export.R'
