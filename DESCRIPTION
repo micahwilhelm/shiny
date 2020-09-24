@@ -1,6 +1,6 @@
 Package: shiny
 Type: Package
-Title: Web Application Framework for R
+Title: Custom 'Shiny' by Micah Wilhelm
 Version: 1.5.0
 Authors@R: c(
     person("Winston", "Chang", role = c("aut", "cre"), email = "winston@rstudio.com"),
